@@ -1,0 +1,6 @@
+{
+    "require": {
+        "voryx/thruway": "^0.4.2",
+        "firebase/php-jwt": "^3.0"
+    }
+}
